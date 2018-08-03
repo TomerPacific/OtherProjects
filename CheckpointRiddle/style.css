@@ -1,0 +1,17 @@
+main {
+	text-align: center;
+}
+
+main a {
+	text-decoration: none;
+}
+
+#puzzleInput {
+	background-color: gray;
+	border: 2px dashed black;
+	color: white;
+}
+
+#solution {
+	margin-top: 10%;
+}
