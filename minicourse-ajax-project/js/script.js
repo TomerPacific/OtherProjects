@@ -1,5 +1,5 @@
 
-const NYTKey = '****************************8';
+const NYTKey = '****************************';
 
 function loadData() {
 
