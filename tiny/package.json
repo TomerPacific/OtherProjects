@@ -1,0 +1,13 @@
+{
+	"name" : "@tomerpacific/tiny",
+	"version" : "1.0.0",
+	"license" : "MIT",
+	"repository" : "tomerpacific/tiny",
+	"main" : "index.js",
+	"keywords" : [
+		"tiny",
+		"npm",
+		"package",
+		"tomerpacific"
+	]
+}
